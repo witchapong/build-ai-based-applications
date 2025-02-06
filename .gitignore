@@ -1,2 +1,3 @@
 **/__pycache__/
 *.csv
+!tabular/data/SET_symbols_20241230.csv
